@@ -1,8 +1,10 @@
-<h1> Ola ! me chamo Rafael Rizzo </h1>
+<h1> Olá ! me chamo Rafael Rizzo </h1>
+<i>Sou estudante na Unicesumar de Análise e Desenvolvimento de sistemas!</i>
+<h4>E estou fazendo um estágio como Desenvolvedor Full-Stack a aproximadamente 4 meses 😊</h4>
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaelRizzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=rafaelRizzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
