@@ -3,7 +3,6 @@
 <h4 align="center">E estou fazendo um estágio como Desenvolvedor Full-Stack a aproximadamente 4 meses 😊</h4>
 <hr/>
 <div align="center">
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=rafaelRizzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br/>
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -16,5 +15,6 @@
   </div>
   <hr>
 <div> 
-   <a href="https://www.instagram.com/rafael_breschi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://www.instagram.com/rafael_breschi/" target="_blank">
+   <a href="https://br.linkedin.com/in/rafael-rizzo-breschi-b02547216" target="_blank">
 </div>
