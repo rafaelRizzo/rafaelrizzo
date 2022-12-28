@@ -1,5 +1,5 @@
 <h1> Olá ! me chamo Rafael Rizzo </h1>
-<i align="center">Sou estudante na Unicesumar e estou no meu último ano de Análise e Desenvolvimento de sistemas!</i>
+<h5 align="center">Sou estudante na Unicesumar e estou no meu último ano de Análise e Desenvolvimento de sistemas!</h5>
 <h4 align="center">E estou fazendo um estágio como Desenvolvedor Full-Stack a aproximadamente 4 meses 😊</h4>
 <hr/>
 <div align="center">
@@ -16,6 +16,5 @@
   </div>
   <hr>
 <div> 
-  <a href="https://br.linkedin.com/in/rafael-rizzo-breschi-b02547216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/rafael_breschi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
