@@ -1,7 +1,7 @@
 <h1> Olá ! me chamo Rafael Rizzo </h1>
-<i>Sou estudante na Unicesumar de Análise e Desenvolvimento de sistemas!</i>
-<h4>E estou fazendo um estágio como Desenvolvedor Full-Stack a aproximadamente 4 meses 😊</h4>
-
+<i align="center">Sou estudante na Unicesumar e estou no meu último ano de Análise e Desenvolvimento de sistemas!</i>
+<h4 align="center">E estou fazendo um estágio como Desenvolvedor Full-Stack a aproximadamente 4 meses 😊</h4>
+<hr/>
 <div align="center">
   <img width="500px" src="https://github-readme-stats.vercel.app/api?username=rafaelRizzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br/>
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/>
