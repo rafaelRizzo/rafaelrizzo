@@ -1,5 +1,5 @@
 <h1 align="center"> <strong>Olá ! me chamo Rafael Rizzo é um prazer ter você aqui</strong> </h1>
-<h5 align="center">Sou estudante na Unicesumar e estou no meu último ano de Análise e Desenvolvimento de sistemas!</h5>
+<h5 align="center">Formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR</h5>
 <h4 align="center">Desenvolvedor Front-end</h4>
 <hr/>
 <div align="center">
