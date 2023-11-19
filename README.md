@@ -1,6 +1,6 @@
 <h1 align="center"> <strong>Olá ! me chamo Rafael Rizzo é um prazer ter você aqui</strong> </h1>
 <h5 align="center">Formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR</h5>
-<h4 align="center">Desenvolvedor Front-end</h4>
+<h4 align="center">Desenvolvedor Full Stack</h4>
 <hr/>
 <div align="center">
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/>
