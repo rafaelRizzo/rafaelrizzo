@@ -3,7 +3,7 @@
 <h2 align="center">Desenvolvedor Full Stack</h2>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=rafaelRizzo&theme=dark&locale=pt_BR&card_width=600)](https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=rafaelRizzo&theme=dark&locale=pt_BR&card_width=800)](https://git.io/streak-stats">
 </div>
 
 <div align="center">
@@ -24,7 +24,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="POSTMAN"/>
 </div>
-  <hr>
 <div> 
    <a href="https://www.instagram.com/rafael_breschi/" target="_blank">
    <a href="https://br.linkedin.com/in/rafael-rizzo-breschi-b02547216" target="_blank">
