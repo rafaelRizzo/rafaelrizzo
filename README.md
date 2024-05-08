@@ -3,7 +3,7 @@
 <h2 align="center">Desenvolvedor Full Stack</h2>
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=rafaelRizzo&theme=midnight-purple&locale=pt_BR&card_width=600)](https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=rafaelRizzo&theme=dark&locale=pt_BR&card_width=600)](https://git.io/streak-stats">
 </div>
 
 <div align="center">
