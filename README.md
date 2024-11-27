@@ -10,7 +10,7 @@
 <div align="center">
 <!--   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img src="https://img.shields.io/badge/Asterisk-FFBF00?style=for-the-badge&logo=asterisk&logoColor=F28C28" alt="Asterisk"/>
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXTJS"/>    
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NODEJS"/>
