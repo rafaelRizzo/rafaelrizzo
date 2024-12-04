@@ -1,6 +1,6 @@
 <h1 align="center">Desenvolvedor Full Stack</h1>
 <h2 align="center">Olá ! me chamo Rafael Rizzo é um prazer ter você aqui</h2>
-<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas pela UNICESUMAR</h3>
+<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
 </br>
 
 <div align="center">
