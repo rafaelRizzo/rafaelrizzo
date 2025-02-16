@@ -12,11 +12,14 @@
 </div>
 <div style="display: inline_block" align="center"><br>
     <img src="https://img.shields.io/badge/Asterisk-222?style=for-the-badge&logo=asterisk" alt="Asterisk"/>
-    <img src="https://img.shields.io/badge/Next-222?style=for-the-badge&logo=next.js" alt="NEXTJS"/>    
-    <img src="https://img.shields.io/badge/node.js-222?style=for-the-badge&logo=node.js" alt="NODEJS"/>
-    <img src="https://img.shields.io/badge/PHP-222?style=for-the-badge&logo=php" alt="PHP"/>
-    <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql" alt="MSQL"/>    
-    <img src="https://img.shields.io/badge/tailwindcss-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
+    <img src="https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=node.js" alt="NODEJS"/>
+    <img src="https://img.shields.io/badge/Fastify-222?style=for-the-badge&logo=fastify" alt="FASTIFY"/>    
+    <img src="https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express" alt="EXPRESS"/>    
+    <img src="https://img.shields.io/badge/NextJS-222?style=for-the-badge&logo=next.js" alt="NEXTJS"/>    
+    <img src="https://img.shields.io/badge/Tailwindcss-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
+    <img src="https://img.shields.io/badge/Shadcn/ui-222?style=for-the-badge&logo=shadcnui" alt="SHADCN UI"/>
+    <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql" alt="MSYQL"/>    
+    <img src="https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb" alt="MONGO DB"/>    
     <img src="https://img.shields.io/badge/Linux-222?style=for-the-badge&logo=linux" alt="LINUX"/>
     <img src="https://img.shields.io/badge/GIT-222?style=for-the-badge&logo=git" alt="GIT"/>
     <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github" alt="GITHUB"/>
