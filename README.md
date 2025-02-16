@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Fastify-222?style=for-the-badge&logo=fastify" alt="FASTIFY"/>    
     <img src="https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express" alt="EXPRESS"/>    
     <img src="https://img.shields.io/badge/NextJS-222?style=for-the-badge&logo=next.js" alt="NEXTJS"/>    
-    <img src="https://img.shields.io/badge/Tailwindcss-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
+    <img src="https://img.shields.io/badge/Tailwind-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
     <img src="https://img.shields.io/badge/Shadcn/ui-222?style=for-the-badge&logo=shadcnui" alt="SHADCN UI"/>
     <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql" alt="MSYQL"/>    
     <img src="https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb" alt="MONGO DB"/>    
