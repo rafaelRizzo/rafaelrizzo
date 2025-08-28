@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Tailwind-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
     <img src="https://img.shields.io/badge/Shadcn/ui-222?style=for-the-badge&logo=shadcnui" alt="SHADCN UI"/>
     <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql" alt="MSYQL"/>    
+    <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=postgres" alt="POSTGRESQL"/>    
     <img src="https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb" alt="MONGO DB"/>    
     <img src="https://img.shields.io/badge/Linux-222?style=for-the-badge&logo=linux" alt="LINUX"/>
     <img src="https://img.shields.io/badge/GIT-222?style=for-the-badge&logo=git" alt="GIT"/>
