@@ -4,7 +4,7 @@
 - 🔥 Desenvolvedor Pleno Full-stack
 - 🔭 Sempre buscando conhecimento
 - 📍 Meu objeto é facilitar o uso das coisas com código 
-- 👨‍💻 Saiba mais em [rafaelrizzo.com](https://rafaelrizzo.com)
+- 👨‍💻 Saiba mais em [rafael-rizzo.com](https://rafael-rizzo.com)
 
 <br><br>
 
