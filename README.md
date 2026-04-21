@@ -1,40 +1,52 @@
-<h1 align="center">Desenvolvedor Full Stack</h1>
-<h2 align="center">Olá ! me chamo Rafael Rizzo é um prazer ter você aqui</h2>
-<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas</h3>
-</br>
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=rafaelRizzo&theme=dark&locale=pt_BR&card_width=800)](https://git.io/streak-stats">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+
+###
 
 <div align="center">
-<!--   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelRizzo&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
-<div style="display: inline_block" align="center"><br>
-    <img src="https://img.shields.io/badge/Asterisk-222?style=for-the-badge&logo=asterisk" alt="Asterisk"/>
-    <img src="https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=node.js" alt="NODEJS"/>
-    <img src="https://img.shields.io/badge/Fastify-222?style=for-the-badge&logo=fastify" alt="FASTIFY"/>    
-    <img src="https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express" alt="EXPRESS"/>    
-    <img src="https://img.shields.io/badge/NextJS-222?style=for-the-badge&logo=next.js" alt="NEXTJS"/>    
-    <img src="https://img.shields.io/badge/Tailwind-222?style=for-the-badge&logo=tailwind-css" alt="TAILWIND CSS"/>
-    <img src="https://img.shields.io/badge/Shadcn/ui-222?style=for-the-badge&logo=shadcnui" alt="SHADCN UI"/>
-    <img src="https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql" alt="MSYQL"/>    
-    <img src="https://img.shields.io/badge/postgresql-222?style=for-the-badge&logo=postgresql" alt="POSTGRESQL"/>    
-    <img src="https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb" alt="MONGO DB"/>    
-    <img src="https://img.shields.io/badge/Linux-222?style=for-the-badge&logo=linux" alt="LINUX"/>
-    <img src="https://img.shields.io/badge/GIT-222?style=for-the-badge&logo=git" alt="GIT"/>
-    <img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github" alt="GITHUB"/>
-    <img src="https://img.shields.io/badge/Postman-222.svg?style=for-the-badge&logo=Postman" alt="POSTMAN"/>
-</div>
-<div> 
-   <a href="https://www.instagram.com/rafael_breschi/" target="_blank">
-   <a href="https://br.linkedin.com/in/rafael-rizzo-breschi-b02547216" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/github-contribution-grid-snake.svg">
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafaelRizzo/rafaelRizzo/output/pacman-contribution-graph.svg">
 </picture>
 
- 
+###
